@@ -179,48 +179,6 @@
         "experimental": false,
         "attributes": {}
     },
-    "area": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "alt": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "coords": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "download": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "href": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "ping": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "referrerpolicy": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "rel": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "shape": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "target": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "article": {
         "deprecated": false,
         "experimental": false,
@@ -231,84 +189,8 @@
         "experimental": false,
         "attributes": {}
     },
-    "audio": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "autoplay": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "controls": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "controlslist": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "crossorigin": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "disableremoteplayback": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "loop": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "muted": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "preload": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "b": {
         "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "base": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "href": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "target": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
-    "bdi": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "bdo": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "dir": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
-    "big": {
-        "deprecated": true,
         "experimental": false,
         "attributes": {}
     },
@@ -318,126 +200,6 @@
         "attributes": {
             "cite": {
                 "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
-    "body": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "alink": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "background": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "bgcolor": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "bottommargin": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "leftmargin": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "link": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "onafterprint": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onbeforeprint": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onbeforeunload": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onblur": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onerror": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onfocus": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onhashchange": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onlanguagechange": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onload": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onmessage": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onoffline": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "ononline": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onpopstate": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onresize": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onstorage": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "onunload": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "rightmargin": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "text": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "topmargin": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "vlink": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
-    },
-    "br": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "clear": {
-                "deprecated": true,
                 "experimental": false
             }
         }
@@ -500,24 +262,6 @@
             }
         }
     },
-    "canvas": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "height": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "moz-opaque": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "width": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "caption": {
         "deprecated": false,
         "experimental": false,
@@ -527,11 +271,6 @@
                 "experimental": false
             }
         }
-    },
-    "center": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
     },
     "cite": {
         "deprecated": false,
@@ -674,16 +413,6 @@
             }
         }
     },
-    "dir": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {
-            "compact": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
-    },
     "div": {
         "deprecated": false,
         "experimental": false,
@@ -703,46 +432,6 @@
         "deprecated": false,
         "experimental": false,
         "attributes": {}
-    },
-    "embed": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "height": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "type": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "width": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
-    "fencedframe": {
-        "deprecated": false,
-        "experimental": true,
-        "attributes": {
-            "allow": {
-                "deprecated": false,
-                "experimental": true
-            },
-            "height": {
-                "deprecated": false,
-                "experimental": true
-            },
-            "width": {
-                "deprecated": false,
-                "experimental": true
-            }
-        }
     },
     "fieldset": {
         "deprecated": false,
@@ -771,24 +460,6 @@
         "deprecated": false,
         "experimental": false,
         "attributes": {}
-    },
-    "font": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {
-            "color": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "face": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "size": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
     },
     "footer": {
         "deprecated": false,
@@ -825,80 +496,12 @@
             }
         }
     },
-    "frame": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {
-            "src": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "name": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "noresize": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "scrolling": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "marginheight": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "marginwidth": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "frameborder": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
-    },
-    "frameset": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {
-            "cols": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "rows": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
-    },
     "h1": {
         "deprecated": false,
         "experimental": false,
         "attributes": {}
     },
     "h2": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "h3": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "h4": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "h5": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "h6": {
         "deprecated": false,
         "experimental": false,
         "attributes": {}
@@ -945,20 +548,6 @@
             },
             "width": {
                 "deprecated": true,
-                "experimental": false
-            }
-        }
-    },
-    "html": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "version": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "xmlns": {
-                "deprecated": false,
                 "experimental": false
             }
         }
@@ -1429,70 +1018,10 @@
         "experimental": false,
         "attributes": {}
     },
-    "map": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "name": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "mark": {
         "deprecated": false,
         "experimental": false,
         "attributes": {}
-    },
-    "marquee": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {
-            "behavior": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "bgcolor": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "direction": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "height": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "hspace": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "loop": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "scrollamount": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "scrolldelay": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "truespeed": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "vspace": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "width": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
     },
     "menu": {
         "deprecated": false,
@@ -1559,88 +1088,6 @@
         "deprecated": false,
         "experimental": false,
         "attributes": {}
-    },
-    "nobr": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
-    },
-    "noembed": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
-    },
-    "noframes": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
-    },
-    "noscript": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "object": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "archive": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "border": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "classid": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "codebase": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "codetype": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "data": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "declare": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "form": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "height": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "name": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "standby": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "type": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "usemap": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "width": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
     },
     "ol": {
         "deprecated": false,
@@ -1719,51 +1166,10 @@
         "experimental": false,
         "attributes": {}
     },
-    "param": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {
-            "name": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "value": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "type": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "valuetype": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
-    },
     "picture": {
         "deprecated": false,
         "experimental": false,
         "attributes": {}
-    },
-    "plaintext": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
-    },
-    "portal": {
-        "deprecated": false,
-        "experimental": true,
-        "attributes": {
-            "referrerpolicy": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
     },
     "pre": {
         "deprecated": false,
@@ -1803,31 +1209,6 @@
             }
         }
     },
-    "rb": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
-    },
-    "rp": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "rt": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "rtc": {
-        "deprecated": true,
-        "experimental": false,
-        "attributes": {}
-    },
-    "ruby": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
     "s": {
         "deprecated": false,
         "experimental": false,
@@ -1837,68 +1218,6 @@
         "deprecated": false,
         "experimental": false,
         "attributes": {}
-    },
-    "script": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "async": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "attributionsrc": {
-                "deprecated": false,
-                "experimental": true
-            },
-            "blocking": {
-                "deprecated": false,
-                "experimental": true
-            },
-            "crossorigin": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "defer": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "fetchpriority": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "integrity": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "nomodule": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "nonce": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "referrerpolicy": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "type": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "charset": {
-                "deprecated": true,
-                "experimental": false
-            },
-            "language": {
-                "deprecated": true,
-                "experimental": false
-            }
-        }
     },
     "search": {
         "deprecated": false,
@@ -1948,62 +1267,13 @@
             }
         }
     },
-    "slot": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "name": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "small": {
         "deprecated": false,
         "experimental": false,
         "attributes": {}
     },
-    "source": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "type": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "srcset": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "sizes": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "media": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "height": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "width": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "span": {
         "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "strike": {
-        "deprecated": true,
         "experimental": false,
         "attributes": {}
     },
@@ -2176,28 +1446,6 @@
             "width": {
                 "deprecated": true,
                 "experimental": false
-            }
-        }
-    },
-    "template": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "shadowrootmode": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "shadowrootclonable": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "shadowrootdelegatesfocus": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "shadowrootserializable": {
-                "deprecated": false,
-                "experimental": true
             }
         }
     },
@@ -2426,32 +1674,6 @@
             }
         }
     },
-    "track": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "default": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "kind": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "label": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "srclang": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "tt": {
         "deprecated": true,
         "experimental": false,
@@ -2476,80 +1698,8 @@
             }
         }
     },
-    "var": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "video": {
-        "deprecated": false,
-        "experimental": false,
-        "attributes": {
-            "autoplay": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "controls": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "controlslist": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "crossorigin": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "disablepictureinpicture": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "disableremoteplayback": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "height": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "loop": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "muted": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "playsinline": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "poster": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "preload": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "src": {
-                "deprecated": false,
-                "experimental": false
-            },
-            "width": {
-                "deprecated": false,
-                "experimental": false
-            }
-        }
-    },
     "wbr": {
         "deprecated": false,
-        "experimental": false,
-        "attributes": {}
-    },
-    "xmp": {
-        "deprecated": true,
         "experimental": false,
         "attributes": {}
     }
