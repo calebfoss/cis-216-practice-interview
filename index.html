@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CIS 216 - Practice Interview</title>
+    <script src="script.js" defer></script>
+    <style>
+      * {
+        font-family: sans-serif;
+      }
+
+      table {
+        border-collapse: collapse;
+        min-width: 400px;
+        table-layout: fixed;
+      }
+
+      caption,
+      th,
+      td {
+        border-style: solid;
+        padding: 0.5em;
+      }
+
+      th {
+        text-align: left;
+        width: 14ch;
+      }
+
+      button {
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CIS 216 - Practice Interview</h1>
+    <p id="prompt">Create an HTML document that demonstrates the following:</p>
+    <table>
+      <caption>
+        Requirements
+      </caption>
+      <tr>
+        <th scope="row">Element</th>
+        <td id="element-name"></td>
+      </tr>
+      <tr>
+        <th scope="row">Attribute</th>
+        <td id="attribute-name"></td>
+      </tr>
+      <tr>
+        <th scope="row">CSS property</th>
+        <td id="css-name"></td>
+      </tr>
+    </table>
+    <button id="generate-prompt">Generate New Prompt</button>
+  </body>
+</html>
